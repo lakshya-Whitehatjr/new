@@ -1,0 +1,30 @@
+.head_1{
+    font-family: 'Viaoda Libre', cursive;
+}
+body{
+    background-image: linear-gradient(yellow,white)
+}
+.descrip{
+    font-family: 'Benne', serif;
+}
+.img_1{
+    height:500px;
+    width:500px;}
+.movie_head{
+    margin-bottom:15px;
+    padding:10px;
+    width:100%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;}
+.img_12{
+    height: 300px;
+    width: 300px;
+}
+.text{
+    font-size: 30px;
+}
+.de{
+    font-family: 'Oxygen', sans-serif;
+}
+
